@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrefcbruni
 - 👀 I’m interested in Automation, gamification and making things as easy as possible
 - 🌱 I’m currently learning Python and Embedded Programming
-- 💞️ I’m looking to collaborate on opensource projects
+- 💞️ I’m looking to collaborate on development companies, opensource projects and startups
 - 📫 How to reach me: andrefcbruni@gmailcom or +5511956002442 (BR)
 
 <!---
