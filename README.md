@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrefcbruni
-- 👀 I’m interested in Automation, gamification and making things as easy as possible
-- 🌱 I’m currently learning Python and Embedded Programming
+- 👀 I’m interested in automation, full stack development, gamification, web3, decentralized finance and UI/UX.
+- 🌱 I’m currently learning Figma, Solidity and Rust.
 - 💞️ I’m looking to collaborate on development companies, opensource projects and startups
 - 📫 How to reach me: andrefcbruni@gmailcom or +5511956002442 (BR)
 
