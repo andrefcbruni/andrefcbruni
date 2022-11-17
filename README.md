@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrefcbruni&label=Profile%20views&color=0e75b6&style=flat" alt="andrefcbruni" /> </p>
 
-- 🔭 I’m currently working on **populating my github and learning frontend skills**
+- 🔭 I’m currently working on **populating my github and learning DevOps**
 
-- 🌱 I’m currently learning **new Python libraries and Javascript**
+- 🌱 I’m currently learning **new Python libraries and Bazel**
 
 - 🤝 I’m looking for help with **easy projects, fast learning and building network**
 
