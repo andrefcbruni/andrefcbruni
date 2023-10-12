@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @andrefcbruni</h1>
-<h3 align="center">I'm a fullstack developer specialized in Python and constant learner.</h3>
+<h3 align="center">I'm a QA Engineer who likes to find and solve problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrefcbruni&label=Profile%20views&color=0e75b6&style=flat" alt="andrefcbruni" /> </p>
 
-- 🔭 I’m currently working on **populating my github and learning DevOps**
+- 🔭 I’m currently working on **populating my github and learning advanced testing techniques**
 
 - 🌱 I’m currently learning **new Python libraries and Bazel**
 
